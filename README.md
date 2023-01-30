@@ -1,6 +1,14 @@
 # Countdown Timer
 
 
+## New Additions
+
+### **Things not implemented in the [last](https://github.com/GiddyLinux/denary-to-binary-convertor) mini project**
+    - Functions
+    - Match statements for Ok and Err
+    - Sleep function
+    - Iterative loops
+    - Clearing screen input
 
 
 
